@@ -1,0 +1,11 @@
+- `ipconfig`: IP adress , mask , subnet, gateway (/all pour toutes les informations)
+- `ping`
+- `tracert` : trace route. Retrace la route pour arriver a la cible. Peut ne notifier si un routeur peur le packet (TTL)
+- `nslookup` : renvoie l'ip d'un hote ou d'un domaine. Exemple l'ip de youtube
+- `netstat` : Montre toute les connections aux réseau ainsi que les port en écoute. 
+	- -h for help
+	- -a display all 
+	- -b montre le programm associé au port 
+	- -o pour le PID
+	- -n format numérique pour les adresse e ports
+- 

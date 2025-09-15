@@ -1,0 +1,4 @@
+- `tasklist` : Montre les processus en cours ainsi que leur PID le nome de la session et l'utilisation mémoire
+	- /? pour l'aide
+	- /FI pour filter (exemple :tasklist /FI "imagename eq sshd.exe" )
+- `taskkill /PID target_id`

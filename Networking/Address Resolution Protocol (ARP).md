@@ -1,0 +1,2 @@
+Permet de connaitre avec l'adresse IP d'un destinataire, a quelle gateway passé ainsi que l'adresse MAC a utilisé. 
+Une fois ca fait le chache ARP garde en mémoire ces données jusque un certains temps. 

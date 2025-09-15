@@ -1,0 +1,1 @@
+WHOIS est un registre qui contient les informations sur les propriétaire de nom de domaine. 

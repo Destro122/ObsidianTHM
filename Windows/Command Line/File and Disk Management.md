@@ -1,0 +1,13 @@
+- `cd` : current dir
+- `dir` : dossier enfant du cd
+	- /a fichiers cachés
+	- /s montre les dossiers enfants des dossiers enfants
+- tree : représentation visuelle de l'arborescence des fichiers.
+- `mkdir` : créer un dossier
+- `rmdir` : supprime un dossier
+- `type` : renvoie le contenue d'un fichier texte (more peut être utile pour les gros fichiers)
+- `copy`
+- `move`
+- `del / erase`
+- * peut être utilisé comme joker (*.txt pour sélectionner tout les fichiers textes)
+- 

@@ -1,0 +1,2 @@
+On parle de cryptographie symétrique lorsque la clé utilisé pour coder le message est la même que celle pour le décoder.
+L'advanced encryption system est maintenant utilisé comme standard. Les clés peuvent être de 128,192 ou 256 bits.

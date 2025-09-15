@@ -1,0 +1,8 @@
+-  `Get-ChildItem`
+- `Set-Location`
+- `New-Item` -Path "Path" -ItemType "Type" : Permet de créer un item (un dossier, un fichier texte...)
+- `Remove-Item`
+- `Copy-Item / copy` -Path "Path" -Destination "Destination"
+-  `Move-Item / move`-Path "Path" -Destination "Destination"
+-  `Get-Content` -Path ".\captain-hat.txt" : Permet de lire le contenu d'un fichier
+- 

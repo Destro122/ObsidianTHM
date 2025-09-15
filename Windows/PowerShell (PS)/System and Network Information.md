@@ -1,0 +1,5 @@
+ -  `Get-ComputerInfo` : renvoie les informations du system mais plus largement que systeminfo
+ -  `Get-LocalUser` : Liste tout les utilisateurs local du système 
+ - `Get-NetIPConfiguration` : Renvoie les informations détaillé sur l'interface réseau du système
+ - `Get-NetIPAddress` : Information détaillé sur toutes les adresses IP du système
+ - 

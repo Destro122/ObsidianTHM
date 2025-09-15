@@ -1,0 +1,12 @@
+- `set` : Check the path in the cmd
+- `ver` : la version de l'os windows
+- `systeminfo` : liste des informations a propos de l'os, le pc etc
+- `more` : permet de réduire la view d'une commande puis d'aller pas a pas
+- `cls` : clear la console 
+- `chkdsk` : check disk 
+- `driverquarry` : liste des drivers
+- `sfc /scannow` : scan et répare si possible la corruption des fichiers systèmes
+-  `shutdown`
+	- /s 
+	- /r reboot
+	- /a abort
