@@ -1,0 +1,8 @@
+- **Databases** are collections of organised data or information that are easily accessible and can be manipulated or analysed.
+- The two primary types of databases are **relational databases** (used to store structured data) and **non-relational databases** (used to store data in a non-tabular format).
+- Relational databases are made up of **Tables, columns and rows**. **Primary keys** can ensure a record is unique within a table, and **foreign keys** can allow for a relationship/connection to be made between two (or more) tables.
+- **SQL** is an easy-to-learn programming language that can be used to interact with relational databases.
+- **Database and Table statements** can be used to create/manipulate databases and tables.
+- CRUD Operations (**INSERT, SELECT, UPDATE** and **DELETE**) can be used to manage data in a database.
+- In SQL, we can use **clauses** to define how data should be retrieved, filtered, sorted, or grouped.
+- The efficient use of **operators** and **functions** can help us filter and manipulate data in SQL.

@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b828bda4416929dd",
+        "id": "5a8a2077984a00ca",
         "type": "tabs",
         "children": [
           {
-            "id": "289e4cdba726799e",
+            "id": "6998a799f743240b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Networking/Soft/Wireshark/Pasted image 20250727183608.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250727183608"
             }
           }
         ]
@@ -176,14 +178,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "289e4cdba726799e",
+  "active": "222c7a06416ce722",
   "lastOpenFiles": [
+    "Exploit/msfvenom.md",
+    "Exploit/Metasploit Exploit.md",
+    "Exploit/Meterpreter Commands.md",
+    "Networking/Soft/TCPDump.md",
+    "WEB/Security Headers.md",
+    "Networking/Soft/Wireshark/Pasted image 20250727183608.png",
+    "General & def/Exploit.md",
+    "Linux/Shell/Linux Shell.md",
+    "Networking/Soft/Wireshark/Wireshark.md",
+    "Networking/Soft/Wireshark",
+    "WEB/SQL/SQL.md",
+    "WEB/SQL",
+    "WEB/Burp Suit/Burp Basics.md",
+    "WEB/Burp Suit",
+    "WEB",
+    "Linux/Shell",
+    "Linux",
     "Exploit/Metasploit.md",
     "Exploit/msfconsole.md",
     "General & def/Payload.md",
     "General & def/signature-based antivirus.md",
     "General & def/Vulnerability.md",
-    "General & def/Exploit.md",
     "General & def",
     "Exploit",
     "Ex.md",
@@ -196,25 +214,9 @@
     "Crypto/PGP & GPG.md",
     "Crypto/Asymmetric Encryption.md",
     "Crypto/Symmetric Encryption.md",
-    "Crypto/Encryption.md",
-    "Crypto/Basics.md",
-    "Networking/Port communs.md",
-    "Networking/Hyper Text Transfert Protocole Secure (HTTPS).md",
-    "Networking/Internet Message Access Protocol (IMAP).md",
-    "Networking/Post Office Protocol (POP3).md",
-    "Networking/Simple Mail Transfert Protocol (SMTP).md",
-    "Networking/File Transfert Protocol (FTP).md",
-    "Networking/Domain Name System (DNS).md",
-    "Networking/Network Address Translation (NAT).md",
     "Crypto",
     "Networking/Soft",
     "Images/Pasted image 20250723213252.png",
-    "Images",
-    "Pasted image 20250723213249.png",
-    "Networking",
-    "Windows/PowerShell (PS)",
-    "Windows/Command Line",
-    "Windows",
-    "Windows/Active Directory"
+    "Pasted image 20250723213249.png"
   ]
 }
