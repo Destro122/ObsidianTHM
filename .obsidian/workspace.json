@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5a8a2077984a00ca",
+        "id": "b828bda4416929dd",
         "type": "tabs",
         "children": [
           {
-            "id": "6998a799f743240b",
+            "id": "67b995020a9588fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Networking/Soft/Wireshark/Pasted image 20250727183608.png"
+                "file": "WEB/OWASP/OWASP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250727183608"
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "1ec822792cb6d557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/OWASP/OWASP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP"
+            }
+          },
+          {
+            "id": "2e8863de696787e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/OWASP/Server-Side Request Forgery (SSRF).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Server-Side Request Forgery (SSRF)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,43 +211,44 @@
   },
   "active": "222c7a06416ce722",
   "lastOpenFiles": [
-    "Exploit/msfvenom.md",
-    "Exploit/Metasploit Exploit.md",
-    "Exploit/Meterpreter Commands.md",
-    "Networking/Soft/TCPDump.md",
-    "WEB/Security Headers.md",
-    "Networking/Soft/Wireshark/Pasted image 20250727183608.png",
-    "General & def/Exploit.md",
-    "Linux/Shell/Linux Shell.md",
-    "Networking/Soft/Wireshark/Wireshark.md",
-    "Networking/Soft/Wireshark",
-    "WEB/SQL/SQL.md",
-    "WEB/SQL",
+    "WEB/OWASP/Server-Side Request Forgery (SSRF).md",
+    "WEB/OWASP/OWASP.md",
+    "WEB/OWASP/Security Logging & Monitoring Failures.md",
+    "WEB/OWASP/Insecure Design.md",
+    "WEB/OWASP/Cryptographic Failures.md",
+    "WEB/OWASP/Injection.md",
+    "WEB/OWASP/Broken Access Control.md",
+    "WEB/OWASP/Software and Data Integrity Failures.md",
+    "WEB/OWASP/Identification and Authentication Failures.md",
+    "WEB/OWASP/Security Misconfiguration.md",
+    "WEB/OWASP/Vulnerable and Outdated Components.md",
+    "WEB/OWASP",
     "WEB/Burp Suit/Burp Basics.md",
+    "WEB/SQL/SQL.md",
     "WEB/Burp Suit",
+    "WEB/SQL",
+    "WEB/Security Headers.md",
     "WEB",
-    "Linux/Shell",
-    "Linux",
+    "Networking/Soft/Wireshark/Wireshark.md",
+    "Networking/Soft/Wireshark/Pasted image 20250727183608.png",
+    "Networking/Soft/Wireshark",
+    "Networking/Soft/TCPDump.md",
+    "Exploit/msfvenom.md",
+    "Exploit/Meterpreter Commands.md",
+    "Exploit/Metasploit Exploit.md",
     "Exploit/Metasploit.md",
     "Exploit/msfconsole.md",
     "General & def/Payload.md",
     "General & def/signature-based antivirus.md",
     "General & def/Vulnerability.md",
+    "General & def/Exploit.md",
     "General & def",
     "Exploit",
     "Ex.md",
-    "Search Engines/Common Vulnerabilities and Exposures (CVE).md",
-    "Crypto/RSA.md",
-    "Crypto/Diffie-Hellman Key Exchange.md",
-    "Crypto/Digital Signature And Certficates.md",
-    "Crypto/Hash.md",
-    "Crypto/John the Ripper.md",
-    "Crypto/PGP & GPG.md",
-    "Crypto/Asymmetric Encryption.md",
-    "Crypto/Symmetric Encryption.md",
     "Crypto",
     "Networking/Soft",
     "Images/Pasted image 20250723213252.png",
+    "Images",
     "Pasted image 20250723213249.png"
   ]
 }
