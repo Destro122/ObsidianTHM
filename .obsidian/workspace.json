@@ -11,14 +11,15 @@
             "id": "e181798aee51c986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "WEB/Burp Suit/Burp Basics.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Burp Basics"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -182,11 +183,12 @@
   },
   "active": "e181798aee51c986",
   "lastOpenFiles": [
+    "Networking/Port communs.md",
+    "WEB/Burp Suit/Burp Basics.md",
     "WEB/Burp Suit/Burp Scope.md",
     "WEB/Burp Suit/Burp Browser.md",
     "WEB/Burp Suit/Burp Target.md",
     "WEB/Burp Suit/Burp Proxy.md",
-    "WEB/Burp Suit/Burp Basics.md",
     "Networking/Soft/Wireshark/Pasted image 20250727183608.png",
     "Exploit/msfvenom.md",
     "Exploit/Metasploit Exploit.md",
@@ -216,7 +218,6 @@
     "Crypto/Diffie-Hellman Key Exchange.md",
     "Crypto/Digital Signature And Certficates.md",
     "Crypto/Hash.md",
-    "Crypto/John the Ripper.md",
     "Crypto",
     "Networking/Soft",
     "Images/Pasted image 20250723213252.png",
