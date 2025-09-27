@@ -1,0 +1,6 @@
+| Firewalls                 | Characteristics                                                                                                                                                                                |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stateless firewalls       | - Basic filtering  <br>- No track of previous connections  <br>- Efficient for high-speed networks                                                                                             |
+| Stateful firewalls        | - Recognize traffic by patterns  <br>- Complex rules can be applicable  <br>- Monitor the network connections                                                                                  |
+| Proxy firewalls           | - Inspect the data inside the packets as well  <br>- Provides content filtering options  <br>- Provides application control  <br>- Decrypts and inspects SSL/TLS data packets                  |
+| Next-generation firewalls | - Provides advanced threat protection  <br>- Comes with an intrusion prevention system  <br>- Identify anomalies based on heuristic analysis  <br>- Decrypts and inspects SSL/TLS data packets |
