@@ -44,7 +44,7 @@ hydra -l root -P passwords.txt 10.10.224.225 -t 4 ssh
 
 ---
 
-##3️⃣ Web Form (POST)
+## 3️⃣ Web Form (POST)
 
 Commandes :  
 hydra -l <username> -P <wordlist> 10.10.224.225 http-post-form "/:username=^USER^&password=^PASS^:F=incorrect" -V
