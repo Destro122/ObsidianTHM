@@ -2,7 +2,7 @@
 
 - Définit les sources autorisées pour charger du contenu (scripts, styles, images, etc.).
     
-- Aide à limiter les injections de code malveillant (XSS).
+- Aide à limiter les injections de code malveillant ([[XSS]]).
     
 - Exemple :
 	Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.tryhackme.com; style-src 'self'
