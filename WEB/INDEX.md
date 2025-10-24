@@ -17,6 +17,7 @@ Concepts liés à la **sécurité web**, aux **applications**, et à l’**OWASP
 - [[File Inclusion]]
 - [[IDOR]]
 - [[Authentification Bypass]]
+-  [[Command Injection]] — Exploiting unsanitized system calls to execute arbitrary commands.
 
 ---
 
@@ -34,7 +35,14 @@ Concepts liés à la **sécurité web**, aux **applications**, et à l’**OWASP
 - [[OSINT Discovery]]
 
 ---
+## Vulnerabilities
+- [[Race Conditions]] — Exploiting concurrency to duplicate actions or bypass restrictions.
+- [[SQLi - Introduction]] — Fundamentals of SQLi and database logic.
+- [[SQLi - Types]] — In-band, blind, and out-of-band injection methods.
+- [[SQLi - Authentication Bypass]] — How SQLi is used to defeat login mechanisms.
+- [[SQLi - Remediation]] — Defensive measures and input validation techniques.
 
+--- 
 ## 📊 Compléments
 - [[Security Headers]]
 - [[SQL]]

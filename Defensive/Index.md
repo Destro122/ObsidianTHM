@@ -61,6 +61,9 @@ Centre opérationnel regroupant les analystes, process et technologies pour dét
 Liens utiles : [[SIEM]] | [[Firewall]] | [[Digital Forensic]]
 
 ---
-
+## Mitigation 
+- See [[Race Conditions]] for vulnerability context.
+- See [[Command Injection]] for techniques related to input sanitization and safe system call handling.
+- See [[SQLi - Remediation]] for defensive practices against SQL injection.
 ## 📚 Tags
 #defensive #forensics #firewall #siem #soc #ids

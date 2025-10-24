@@ -11,3 +11,5 @@ Les failles d’injection apparaissent lorsque des entrées contrôlées par l�
     - **Allow list (liste blanche)** : n’accepter que des entrées considérées comme sûres.
         
     - **Stripping input** : supprimer les caractères dangereux avant traitement.
+
+See [[WEB/Vulnerabilities/Command Injection]] for practical examples and exploitation methods.
