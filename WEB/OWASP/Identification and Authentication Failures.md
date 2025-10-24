@@ -2,7 +2,7 @@ L’authentification et la gestion des sessions sont essentielles aux applicatio
 
 - **Failles courantes :**
     
-    - **Brute force attacks** : essais multiples pour deviner identifiants.
+    - **[[Brute Force]] attacks** : essais multiples pour deviner identifiants.
         
     - **Mots de passe faibles** : absence de politique de mots de passe robustes.
         

@@ -1,4 +1,4 @@
-John the Ripper est un outils pour crack et brute force de nombreux [[Hash]]
+John the Ripper est un outils pour crack et [[Brute Force]] de nombreux [[Hash]]
 (Dans la suite Jumbo John est utilisé)
 [[https://github.com/danielmiessler/SecLists|Seclist]] est une bonne base de donnée de dictionnaire afin de faire des attaques aux dictionnaires. (Ce que l'on fait avec John)
 

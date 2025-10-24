@@ -1,4 +1,4 @@
-Hydra est un outil de **brute force en ligne** permettant de tester rapidement des listes de mots de passe contre divers services d’authentification (ex. SSH, FTP, HTTP, SMTP, MySQL, RDP, Telnet, VNC, etc.).
+Hydra est un outil de **[[Brute Force]] en ligne** permettant de tester rapidement des listes de mots de passe contre divers services d’authentification (ex. SSH, FTP, HTTP, SMTP, MySQL, RDP, Telnet, VNC, etc.).
 
 - **Fonctionnement :**
     
